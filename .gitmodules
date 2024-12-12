@@ -1,0 +1,4 @@
+[submodule "submodule"]
+    path = submodule
+    url = https://github.com/MinhQuangGit/submodule.git
+    branch = master
